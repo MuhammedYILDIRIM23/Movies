@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		275401F926AEDD8E00015D05 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275401F826AEDD8E00015D05 /* TableViewCell.swift */; };
 		278102EE269C4D0B00507CDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278102ED269C4D0B00507CDB /* AppDelegate.swift */; };
 		278102F0269C4D0B00507CDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278102EF269C4D0B00507CDB /* SceneDelegate.swift */; };
 		278102F2269C4D0B00507CDB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278102F1269C4D0B00507CDB /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		275401F826AEDD8E00015D05 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		278102EA269C4D0B00507CDB /* Movies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		278102ED269C4D0B00507CDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		278102EF269C4D0B00507CDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				278102ED269C4D0B00507CDB /* AppDelegate.swift */,
 				278102EF269C4D0B00507CDB /* SceneDelegate.swift */,
 				278102F1269C4D0B00507CDB /* ViewController.swift */,
+				275401F826AEDD8E00015D05 /* TableViewCell.swift */,
 				278102F3269C4D0B00507CDB /* Main.storyboard */,
 				278102F6269C4D0D00507CDB /* Assets.xcassets */,
 				278102F8269C4D0D00507CDB /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				278102F2269C4D0B00507CDB /* ViewController.swift in Sources */,
+				275401F926AEDD8E00015D05 /* TableViewCell.swift in Sources */,
 				278102EE269C4D0B00507CDB /* AppDelegate.swift in Sources */,
 				278102F0269C4D0B00507CDB /* SceneDelegate.swift in Sources */,
 			);
